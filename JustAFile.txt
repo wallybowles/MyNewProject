@@ -2,3 +2,5 @@ mvn_Properties are in.  a
 mvn_Properties are in.  b
 mvn_Properties are in.  c
 mvn_Properties are in.  d
+mvn_Properties are in.  e
+mvn_Properties are in.  f
