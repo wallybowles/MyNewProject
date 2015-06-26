@@ -4,3 +4,9 @@ mvn_Properties are in.  c
 mvn_Properties are in.  d
 mvn_Properties are in.  e
 mvn_Properties are in.  f
+
+all men are created equal, that they are endowed by their Creator with 
+ceartain unalienable Rights, that among thes are
+Life
+Liberty
+and the Pursuit of Happiness.
